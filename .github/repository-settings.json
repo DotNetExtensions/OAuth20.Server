@@ -1,0 +1,131 @@
+{
+  "title": "OAuth20",
+  "description": "Core libraries for implementing OAuth 2.0 authorization flows in .NET applications, featuring modular architecture, cross-platform support, Blazor-based UI components, and comprehensive testing. Supports various data storage options and is available via NuGet for easy integration.",
+  "link": "https://dotnetextensions.com/oauth20",
+  "labels": [
+    "security",
+    "authentication",
+    "cross-platform",
+    "dotnet",
+    "nuget",
+    "dotnetcore",
+    "databases",
+    "authorization",
+    "core-library",
+    "dotnetframework",
+    "oauth20",
+    "blazor"
+  ],
+  "itemLabels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working. (General-Purpose)",
+      "color": "#d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to project documentation. (General-Purpose)",
+      "color": "#0075ca"
+    },
+    {
+      "name": "enhancement",
+      "description": "Requests for new features or improvements to existing functionality. (General-Purpose)",
+      "color": "#a2eeef"
+    },
+    {
+      "name": "help-wanted",
+      "description": "Extra attention is needed, or assistance is requested for an issue or task. (General-Purpose)",
+      "color": "#008672"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested or needed for clarification. (General-Purpose)",
+      "color": "#d876e3"
+    },
+    {
+      "name": "setup",
+      "description": "Tasks related to the initial setup or configuration of the project. (Project-Specific)",
+      "color": "#e4e669"
+    },
+    {
+      "name": "security",
+      "description": "Tasks focused on security measures, audits, and addressing vulnerabilities. (Project-Specific)",
+      "color": "#b60205"
+    },
+    {
+      "name": "ci-cd",
+      "description": "Tasks related to continuous integration and deployment (CI/CD) processes. (Project-Specific)",
+      "color": "#1d76db"
+    },
+    {
+      "name": "ceremony",
+      "description": "Tasks related to project ceremonies like sprint planning and retrospectives. (Project-Specific)",
+      "color": "#5319e7"
+    },
+    {
+      "name": "retrospective",
+      "description": "Tasks reviewing sprint outcomes and identifying areas for improvement. (Project-Specific)",
+      "color": "#fbca04"
+    },
+    {
+      "name": "workflow",
+      "description": "Tasks related to defining or adjusting development workflows. (Project-Specific)",
+      "color": "#f9d0c4"
+    },
+    {
+      "name": "community",
+      "description": "Tasks involving community interaction or contribution guidelines. (Project-Specific)",
+      "color": "#2b6cb0"
+    },
+    {
+      "name": "legal",
+      "description": "Tasks related to legal aspects, such as adding or updating licenses. (Project-Specific)",
+      "color": "#cfd3d7"
+    },
+    {
+      "name": "testing",
+      "description": "Tasks focused on testing, including unit, integration, and performance tests. (Project-Specific)",
+      "color": "#ededed"
+    },
+    {
+      "name": "core",
+      "description": "Tasks involving the core components or fundamental architecture of the project. (Project-Specific)",
+      "color": "#5319e7"
+    },
+    {
+      "name": "ui",
+      "description": "Tasks related to UI design and implementation using frameworks like Blazor. (Project-Specific)",
+      "color": "#cc317c"
+    },
+    {
+      "name": "data",
+      "description": "Tasks related to data handling, storage, and data source management. (Project-Specific)",
+      "color": "#0e8a16"
+    },
+    {
+      "name": "demo",
+      "description": "Tasks related to creating or improving demo projects showcasing functionality. (Project-Specific)",
+      "color": "#f9a825"
+    },
+    {
+      "name": "extensions",
+      "description": "Tasks that involve developing or maintaining extensions for core features. (Project-Specific)",
+      "color": "#ff7b72"
+    },
+    {
+      "name": "release",
+      "description": "Tasks related to the preparation, management, and deployment of project releases. (Project-Specific)",
+      "color": "#0052cc"
+    },
+    {
+      "name": "planning",
+      "description": "Tasks focused on planning, including roadmap development and milestone setting. (Project-Specific)",
+      "color": "#fef2c0"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers. (General-Purpose)",
+      "color": "#7057ff"
+    }
+  ]
+}
