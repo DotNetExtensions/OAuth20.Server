@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: OAuth20 Project Documentation
+    url: https://dotnetextensions.com/oauth20/documentation
+    about: Please refer to our project documentation for guidance and information.
+  - name: Community Discussions
+    url: https://github.com/DotNetExtensions/OAuth20/discussions
+    about: Ask questions or start discussions about the project here.
+  - name: Security Vulnerabilities
+    url: https://github.com/DotNetExtensions/OAuth20/security/advisories
+    about: Please report security vulnerabilities here.
+  - name: Contribution Guidelines
+    url: https://github.com/DotNetExtensions/OAuth20/blob/main/CONTRIBUTING.md
+    about: Review our contribution guidelines to learn how to get involved.

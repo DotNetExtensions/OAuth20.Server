@@ -126,6 +126,21 @@
       "name": "good first issue",
       "description": "Good for newcomers. (General-Purpose)",
       "color": "#7057ff"
+    },
+    {
+      "name": "config",
+      "description": "Tasks related to configuration files like repository-settings.json or config.yml. (Project-Specific)",
+      "color": "#36a3f7"
+    },
+    {
+      "name": "error",
+      "description": "Report errors or inaccuracies in documentation or configuration files. (Project-Specific)",
+      "color": "#e57373"
+    },
+    {
+      "name": "feature",
+      "description": "Suggestions for new features or improvements of existent ones. (Project-Specific)",
+      "color": "#8b4513"
     }
   ]
 }
