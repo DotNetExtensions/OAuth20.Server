@@ -7,7 +7,7 @@
 
 DotNetExtensions.OAuth20.Server is a modular, cross-platform solution designed to implement OAuth 2.0 authorization flows in .NET applications. This project offers reusable libraries for core OAuth 2.0 functionalities and Blazor-based UI components, making it easy to integrate secure authorization services into your .NET projects.
 
-<img src="https://github.com/DotNetExtensions/OAuth20/blob/main/assets/oauth20-flow.gif" width="768">
+<img src="./assets/oauth20-flow.gif" width="768">
 
 *Figure 1: OAuth 2.0 [Protocol Flow](https://datatracker.ietf.org/doc/html/rfc6749#section-1.2) (taken from [dev.to article (authored by "Hem")](https://dev.to/hem/oauth-2-0-flows-explained-in-gifs-2o7a))*
 
