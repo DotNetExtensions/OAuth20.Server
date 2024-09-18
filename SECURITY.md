@@ -44,7 +44,7 @@ After a vulnerability is reported, our team will:
 2. **Assess the Impact:** Evaluate the severity and potential impact.
 3. **Develop a Fix:** Work on a patch or update to resolve the issue.
 4. **Release Updates:** Publish the necessary updates and inform users.
-5. **Public Disclosure:** Once resolved, we will disclose the details in the repository [CHANGELOG.md](https://github.com/DotNetExtensions/OAuth20.Server/blob/main/CHANGELOG.md).
+5. **Public Disclosure:** Once resolved, we will disclose the details in the [CHANGELOG.md](https://github.com/DotNetExtensions/OAuth20.Server/blob/main/CHANGELOG.md).
 
 ## Disclosure Policy
 
